@@ -1,0 +1,600 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+    .navbar-light .navbar-nav .nav-link {
+        text-align: center;
+    }
+
+    .navbar-light .navbar-nav .nav-link::after {
+        width: 8%;
+    }
+
+    .navbar-nav {
+        background: #1e1d1d;
+    }
+
+    .navbar-light .navbar-toggler {
+        background: #ffffff;
+    }
+
+    .navbar-light .navbar-toggler-icon {
+        background: url(../img/aboutlogo/top.png);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    .banner_text h2 {
+        font-size: 26px;
+    }
+
+    .banner_text p {
+        padding: 51px 60px;
+    }
+
+    .banner_text {
+        padding-top: 55px;
+        padding-bottom: 55px;
+    }
+
+    #about_part {
+        padding: 40px 0 40px 0;
+    }
+
+    .about_text h3 {
+        color: #30235F;
+        padding: 19px 0px;
+        text-align: center;
+    }
+
+    .about_text a {
+        margin-top: 9px;
+        width: 100%;
+        text-align: center;
+    }
+
+    #video_part {
+        padding: 90px 0;
+    }
+
+    .video_i {
+        font-size: 21px;
+        width: 55px;
+        height: 55px;
+        padding: 19px;
+        line-height: 8px;
+    }
+
+    .video_icon h3 {
+        padding-top: 19px;
+    }
+
+    #expertise_area {
+        padding: 30px 0 30px 0;
+    }
+
+    .expertiseng_text {
+        padding-top: 30px;
+    }
+
+    .expertiseng_text img {
+        padding-bottom: 18px;
+    }
+
+    .expertiseng_text h3 {
+        padding-bottom: 15px;
+    }
+
+    #tempart_area {
+        padding: 30px 0px;
+    }
+
+    .tempart_head p {
+        padding-bottom: 30px;
+    }
+
+    .tempart_bottom p {
+        padding-top: -2px;
+        padding-bottom: 12px;
+    }
+
+    .tempart_bottom {
+        padding-top: 40px;
+    }
+
+    .tem-slider-text h5 {
+        padding-bottom: 10px;
+    }
+
+    .tem-slider-text p {
+        padding: 0;
+    }
+
+    .project-bootom a {
+        width: 100%;
+        display: inline-block;
+    }
+
+    .project-bootom {
+        padding-top: 29px;
+    }
+
+    .project-left-part h2 {
+        padding-bottom: 30px;
+    }
+
+    #project-part {
+        padding: 30px 0px;
+    }
+
+    .tem_left_angle {
+        top: 88%;
+        left: 25%;
+    }
+
+    .center-img {
+        text-transform: center;
+        margin: 0 auto;
+    }
+
+    .tem_right_angle {
+        top: 88%;
+        right: 27%;
+    }
+
+    #testimonial {
+        padding: 36px 0px;
+    }
+
+    .tem-slider-text i {
+        padding-bottom: 20px;
+    }
+
+    .center-img {
+        text-align: center;
+        margin: auto;
+    }
+
+    .tem-slider-text p {
+        padding: 0px 72px 20px 75px;
+    }
+
+    .contact_left h4,
+    .contact_right h4 {
+        color: #30235F;
+        padding-bottom: 25px;
+        text-align: center;
+    }
+
+    #contact_part {
+        padding: 25px 0px;
+    }
+
+    .contact-btn {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    #footer-part {
+        padding: 20px 0px;
+        position: relative;
+        text-align: center;
+    }
+
+    .footer-left-part p {
+        padding: 30px 0px 0px 0px;
+    }
+
+    .footer-medium-part h4,
+    .footer-right-part h4 {
+        padding-top: 4px;
+        padding-bottom: 8px;
+    }
+
+    .footer-medium-address .address .location-icon {
+        font-size: 14px;
+    }
+
+    .form-inline {
+        display: inline-block;
+    }
+
+    .footer-right-part-top button i {
+        padding: 0px 15px;
+    }
+
+    .footer-left-text {
+        padding-top: 8px;
+    }
+
+    .footer-right-text {
+        padding-top: 0px;
+    }
+
+    .footer-right-text {
+        text-align: center;
+    }
+
+    .text-right {
+        text-align: center !important;
+    }
+}
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .navbar-light .navbar-nav .nav-link {
+        text-align: center;
+    }
+
+    .navbar-light .navbar-nav .nav-link::after {
+        width: 8%;
+    }
+
+    .navbar-nav {
+        background: #1e1d1d;
+    }
+
+    .navbar-light .navbar-toggler {
+        background: #ffffff;
+    }
+
+    .navbar-light .navbar-toggler-icon {
+        background: url(../img/aboutlogo/top.png);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    .banner_text p {
+        padding: 51px 130px;
+    }
+
+    .banner_text {
+        padding-top: 55px;
+        padding-bottom: 55px;
+    }
+
+    #about_part {
+        padding: 40px 0 40px 0;
+    }
+
+    .about_text h3 {
+        color: #30235F;
+        padding: 19px 0px;
+        text-align: center;
+    }
+
+    .about_text a {
+        margin-top: 9px;
+        width: 100%;
+        text-align: center;
+    }
+
+    #video_part {
+        padding: 90px 0;
+    }
+
+    .video_i {
+        font-size: 21px;
+        width: 55px;
+        height: 55px;
+        padding: 19px;
+        line-height: 8px;
+    }
+
+    .video_icon h3 {
+        padding-top: 19px;
+    }
+
+    #expertise_area {
+        padding: 30px 0 30px 0;
+    }
+
+    .expertiseng_text {
+        padding-top: 30px;
+    }
+
+    .expertiseng_text img {
+        padding-bottom: 18px;
+    }
+
+    .expertiseng_text h3 {
+        padding-bottom: 15px;
+    }
+
+    #tempart_area {
+        padding: 30px 0px;
+    }
+
+    .tempart_head p {
+        padding-bottom: 30px;
+    }
+
+    .tempart_bottom p {
+        padding-top: -2px;
+        padding-bottom: 12px;
+    }
+
+    .tempart_bottom {
+        padding-top: 40px;
+    }
+
+    .project-bootom a {
+        width: 100%;
+        display: inline-block;
+    }
+
+    .project-bootom {
+        padding-top: 29px;
+    }
+
+    .project-left-part h2 {
+        padding-bottom: 30px;
+    }
+
+    #project-part {
+        padding: 30px 0px;
+    }
+
+    .tem_left_angle {
+        top: 84%;
+        left: 4%;
+    }
+
+    .center-img {
+        text-align: center;
+        margin: auto;
+    }
+
+    .tem_right_angle {
+        top: 84%;
+        right: 12%;
+    }
+
+    #testimonial {
+        padding: 36px 0px;
+    }
+
+    .tem-slider-text i {
+        padding-bottom: 20px;
+    }
+
+    .tem-slider-text p {
+        padding: 0px 72px 20px 75px;
+    }
+
+    .contact_left h4,
+    .contact_right h4 {
+        color: #30235F;
+        padding-bottom: 25px;
+        text-align: center;
+    }
+
+    #contact_part {
+        padding: 25px 0px;
+    }
+
+    .contact-btn {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    #footer-part {
+        padding: 20px 0px;
+        position: relative;
+        text-align: center;
+    }
+
+    .footer-left-part p {
+        padding: 30px 0px 0px 0px;
+    }
+
+    .footer-medium-part h4,
+    .footer-right-part h4 {
+        padding-top: 4px;
+        padding-bottom: 8px;
+    }
+
+    .footer-medium-address .address .location-icon {
+        font-size: 14px;
+    }
+
+    .form-inline {
+        display: inline-block;
+    }
+
+    .footer-right-part-top button i {
+        padding: 0px 15px;
+    }
+
+    .footer-left-text {
+        padding-top: 8px;
+    }
+
+    .footer-right-text {
+        padding-top: 0px;
+    }
+
+    .footer-right-text {
+        text-align: center;
+    }
+
+    .text-right {
+        text-align: center !important;
+    }
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .navbar-light .navbar-nav .nav-link {
+        text-align: center;
+    }
+
+    .navbar-light .navbar-nav .nav-link::after {
+        width: 8%;
+    }
+
+    .navbar-nav {
+        background: #1e1d1d;
+    }
+
+    .navbar-light .navbar-toggler {
+        background: #ffffff;
+    }
+
+    .navbar-light .navbar-toggler-icon {
+        background: url(../img/aboutlogo/top.png);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    .banner_text p {
+        padding: 51px 130px;
+    }
+
+    .banner_text {
+        padding-top: 108px;
+        padding-bottom: 163px;
+    }
+
+    .about_text h3 {
+        color: #30235F;
+        text-align: center;
+        padding-top: 20px;
+    }
+
+    .about_text a {
+        text-align: center;
+        width: 100%;
+    }
+
+    #video_part {
+        padding: 100px 0;
+    }
+
+    .video_i {
+        font-size: 25px;
+        width: 63px;
+        height: 63px;
+        line-height: 17px;
+    }
+
+    #expertise_area {
+        padding: 39px 0 38px 0;
+    }
+
+    .expertiseng_text {
+        padding-top: 40px;
+    }
+
+    .expertiseng_text img {
+        padding-bottom: 20px;
+    }
+
+    .expertiseng_text h3 {
+        font-size: 14px;
+        padding-bottom: 15px;
+    }
+
+    .project-bootom a {
+        width: 100%;
+        display: inline-block;
+    }
+
+    .tem_left_angle {
+        top: 79%;
+        left: 11%;
+    }
+
+    .tem_right_angle {
+        top: 78%;
+        right: 12%;
+    }
+
+    .tempart_head p {
+        padding-bottom: 35px;
+    }
+
+    .tempart_bottom {
+        padding-top: 41px;
+    }
+
+    #tempart_area {
+        padding: 40px 0px;
+    }
+
+    .contact_left h4,
+    .contact_right h4 {
+        color: #30235F;
+        text-align: center;
+    }
+
+    .contact-btn {
+        width: 100%;
+        margin-bottom: 40px;
+    }
+
+    #contact_part {
+        padding: 40px 0px;
+    }
+
+    #footer-part {
+        text-align: center;
+    }
+
+    .form-inline {
+        display: inline-block;
+    }
+
+    .form-control {
+        font-size: 13px;
+    }
+
+    .footer-right-part-top button i {
+        padding: 0px 15px;
+    }
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .tem_left_angle {
+        left: 22%;
+    }
+
+    .tem_right_angle {
+        right: 21%;
+    }
+
+    #footer-part {
+        font-size: 15px;
+    }
+
+    .footer-right-part input {
+        padding: 18px 15px;
+        background: none;
+        border: 1px solid #9d97b0;
+    }
+}
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+    .tem_left_angle {
+        left: 27%;
+    }
+
+    .tem-slider-img {
+        position: relative;
+        z-index: 100;
+        left: 50%;
+        transform: translateX(-27%);
+    }
+}
+
+.tem-slider-img {
+    margin: auto;
+    text-align: center;
+    width: 250px;
+}
+
+.tem_right_angle {
+    right: 27%;
